@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RISHABH2638N
 - 👀 I’m interested in learning and exploring new things in the tech world
-- 🌱 I’m currently learning C language 
+- 🌱 I’m currently learning C and C++ language 
 - 💞️ I’m looking to collaborate on projcts that can be done using c language 
 - 📫 How to reach me? You can contact me via my email rishankmishra5@gmail.com
 - 😄 Pronouns: You can call me RISHABH MISHRA 
